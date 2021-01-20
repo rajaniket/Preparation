@@ -1,3 +1,4 @@
+//https://prepinsta.com/tcs-coding-questions/jar-of-candies/
 #include<iostream>
 #include<algorithm>
 using namespace std;
